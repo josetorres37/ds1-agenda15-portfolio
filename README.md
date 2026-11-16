@@ -46,7 +46,7 @@ ds1-agenda15-portfolio/
 
 ## Link do repositório
 
-📂 **GitHub:** [https://github.com/josetorres37](https://github.com/josetorres37)
+📂 **GitHub:** [https://github.com/josetorres37/ds1-agenda15-portfolio)
 
 ----
 
