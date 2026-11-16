@@ -40,8 +40,7 @@ ds1-agenda15-portfolio/
 
 ## Link do site publicado
 
-🔗 **GitHub pages:** [https://github.com/josetorres37/ds1-agenda15-portfolio](https://github.com/josetorres37/ds1-agenda15-portfolio)  
-
+🔗 **GitHub pages:** [https://josetorres37.github.io/ds1-agenda15-portfolio/](https://josetorres37.github.io/ds1-agenda15-portfolio/)  
 
 ----
 
