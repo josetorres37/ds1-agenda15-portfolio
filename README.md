@@ -25,6 +25,19 @@ O objetivo é mostrar minha evolução, com foco em desenvolvimento web (HTML, C
 
 ----
 
+## 📂 Estrutura do Projeto
+
+```text
+ds1-agenda15-portfolio/
+│
+├── imagens/                # Pasta contendo as imagens locais
+│   └── perfil.jpeg         # Foto de perfil utilizada na seção Sobre Mim
+│
+├── index.html              # Código-fonte principal do portfólio
+└── README.md               # Documentação do repositório
+```
+----
+
 ## Link do site publicado
 
 🔗 **GitHub pages:** [https://github.com/josetorres37/ds1-agenda15-portfolio](https://github.com/josetorres37/ds1-agenda15-portfolio)  
