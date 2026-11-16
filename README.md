@@ -27,9 +27,8 @@ O objetivo é mostrar minha evolução, com foco em desenvolvimento web (HTML, C
 
 ## Link do site publicado
 
-🔗 **GitHub pages:** [https://josetorres37.github.io/seu-repositorio/](https://josetorres37.github.io/seu-repositorio/)  
+🔗 **GitHub pages:** [https://github.com/josetorres37/ds1-agenda15-portfolio](https://github.com/josetorres37/ds1-agenda15-portfolio)  
 
-> Substitua `seu-repositorio` pelo nome real do repositório após publicar no GitHub Pages.
 
 ----
 
